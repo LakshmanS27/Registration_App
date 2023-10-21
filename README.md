@@ -1,16 +1,18 @@
 # regform
 
-A new Flutter project.
+A new Flutter project based on the idea of creating a Registration App with 3 navigable pages Login, Register and Home Screens. This app has the necessary fields, icons, buttons and options that are needed for a Registration app.
 
-## Getting Started
+## Output:
 
-This project is a starting point for a Flutter application.
+LOGIN SCREEN:
 
-A few resources to get you started if this is your first Flutter project:
+![loginsc](https://github.com/LakshmanS27/Registration_App/assets/113196532/bbf7305f-f27a-4107-b1f1-7bc43131107e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+REGISTER SCREEN:(Scrollabe Screen)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![registersc](https://github.com/LakshmanS27/Registration_App/assets/113196532/703e5389-5f3f-4c76-bd80-fb991e8cec85)
+
+HOME SCREEN:(Scrollabe Screen)
+
+![Homescreen](https://github.com/LakshmanS27/Registration_App/assets/113196532/86498289-0e77-4505-8bb2-5b942c72f18b)
+![logout](https://github.com/LakshmanS27/Registration_App/assets/113196532/4f28f3cc-eb02-4dc4-8eb6-4205e939e9e8)
